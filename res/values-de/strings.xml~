@@ -299,14 +299,9 @@
     <string name="message_timestamp_format"><xliff:g id="STRING_0">%1$s</xliff:g> - <xliff:g id="STRING_1">%2$s</xliff:g></string>
     <string name="pref_extra_settings">Weitere Einstellungen</string>
     <string name="pref_char_settings">Zeichen Einstellungen</string>
-
-    <!-- Enable emojis -->
     <string name="pref_title_enable_emojis">Emoji-Unterstützung</string>
     <string name="pref_summary_enable_emojis">Unterstützung für Emojis aktivieren</string>
     <string name="menu_insert_emoji">Emojis einfügen</string>
-    <string name="pref_title_quick_smiley_btn">Smiley/Emoji Schnellanwahl</string>
-    <string name="pref_summary_quick_smiley_btn">Aktiviere die Taste links von der Texteingabe</string>
-
     <string name="pref_title_sms_split_counter">Zähler für Aufteilung</string>
     <string name="pref_summary_sms_split_counter">Der Nachricht einen Zähler anhängen, z.B. (1/2)</string>
     <string name="prefs_templates_settings">SMS-Vorlagen</string>
@@ -372,49 +367,6 @@
     <string name="direct_call_summary">Rufe den aktuellen Kontakt an</string>
     <string name="pref_title_mms_message_font_size">Schriftgröße der Nachrichten</string>
     <string name="pref_summary_mms_message_font_size">Ändert die Schriftgröße der Nachrichtenansicht</string>
-
-    <!-- MMS THEME SETTINGS -->
-    <string name="mms_themes">MMS Theme Einstellungen</string>
-    <string name="themes_conv_list_title">Gesprächslisten Darstellung</string>
-    <string name="themes_conv_list_summary">Ändere die Gesprächslisten Darstellung (Text, Farben und mehr)</string>
-    <string name="themes_msg_list_title">Nachrichtenlisten Darstellung</string>
-    <string name="themes_msg_list_summary">Ändere die Nachrichtenlisten Darstellung (Text, Farben und mehr)</string>
-    <string name="themes_widget_title">Widget Darstellung</string>
-    <string name="themes_widget_summary">Ändere die Darstellung des Widgets (dunkel/hell) und die Textfarbe</string>
-    <string name="background_colors">Hintergrund</string>
-    <string name="custom_image_title">Persönliches Bild</string>
-    <string name="custom_image_summary">Wähle ein Hintergrundbild</string>
-    <string name="main_bg">Grundfarbe des Hintergrundes</string>
-    <string name="read_bg">Hintergrundfarbe</string>
-    <string name="conversation_list_read">Gelesene Gesprächslisten</string>
-
-    <!-- conv list read/unread -->
-    <string name="unread_bg">Farbe Hintergrundfarbe</string>
-    <string name="unread_contact">Farbe Kontakt</string>
-    <string name="unread_subject">Farbe Überschrift</string>
-    <string name="unread_date">Farbe Datum</string>
-    <string name="unread_count">Farbe Nachrichtenzahl</string>
-    <string name="unread_smiley">Farbe Smileys</string>
-    <string name="read_bg">Farbe Gesprächslisten</string>
-    <string name="read_contact">Farbe Kontakt</string>
-    <string name="read_subject">Farbe Überschrift</string>
-    <string name="read_date">Farbe Datum</string>
-    <string name="read_count">Farbe Nachrichtenzahl</string>
-    <string name="read_smiley">Farbe Smileys</string>
-
-    <!-- SMS SPLIT -->
-    <string name="pref_title_sms_split_160">SMS Teilen</string>
-    <string name="pref_summary_sms_split_160">Teile eine SMS nach 160 Zeichen</string>
-
-<!-- Multipart SMS -->
-    <string name="pref_title_sms_EnableMultipartSMS">SMS in MMS umwandeln</string>
-    <string name="pref_summary_sms_EnableMultipartSMS">Wandele lange SMS in MMS um</string>
-
-    <!-- Themes preference categorys -->
-    <string name="contact_font_size_title">Schriftgröße für Kontakt</string>
-    <string name="font_size_title">Schriftgröße für Nachrichten</string>
-    <string name="date_font_size_title">Schriftgröße für das Datum</string>
-
     <string name="pref_dialogtitle_mms_message_font_size">Schriftgröße auswählen</string>
     <string name="pref_title_notification_privacy_mode_enabled">Privater Modus</string>
     <string name="pref_summary_notification_privacy_mode_enabled">Blendet Absender und Nachricht in der Statusleiste aus und deaktiviert Schnellantworten</string>
@@ -433,15 +385,6 @@
     <string name="pref_multi_select">Einfache Selektion</string>
     <string name="pref_multi_select_summary">Wählen Sie mehrere Kontakte mit Mehrfachauswahl</string>
     <string name="add_recipients">Empfänger hinzufügen</string>
-    <string name="pref_summary_mms_user_agent">Täusche ein anderes Handymodell für MMS vor</string>
-
-  <!-- Strip unicode -->
-    <string name="pref_title_strip_unicode">Entferne Unicode</string>
-    <string name="pref_summary_strip_unicode">Ersetze nicht unterstützte Zeichen in 160 Zeichen SMS-Nachrichten</string>
-
-    <string name="pref_dark_theme_title">Nutze das dunkle Theme</string>
-    <string name="pref_dark_theme_summary">Das helle Theme wird versendet, wenn nicht angewählt</string>
-
     <string-array name="select_dialog_items">
         <item>1 Sekunde</item>
         <item>2 Sekunden</item>
