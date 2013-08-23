@@ -335,6 +335,9 @@
   </plurals>
     <string name="disable_notifications_dialog_message" msgid="7644011234972074096">"Doppelte SMS-Benachrichtigungen der standardmäßigen SMS/MMS-App stoppen?"</string>
     <string name="view_more_conversations" msgid="7275920132410734671">"Weitere Konversationen ansehen"</string>
+    <!-- Message Font size -->
+    <string name="pref_title_mms_message_font_size">Schriftgröße für Nachrichten</string>
+
     <string name="attachment_audio" msgid="2867960243300539143">"Audio"</string>
     <string name="attachment_slideshow" msgid="5867689101881763318">"Diashow"</string>
     <string name="attachment_video" msgid="4252062022156694591">"Video"</string>
